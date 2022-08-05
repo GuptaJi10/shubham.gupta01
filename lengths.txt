@@ -1,4 +1,4 @@
- 0 lengths.txt
- 0 myfile.txt
+ 1 lengths.txt
+ 2 myfile.txt
  3 quotation.txt
  3 total
